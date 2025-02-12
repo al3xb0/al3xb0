@@ -17,7 +17,7 @@
   <b>I'am a Full Stack Developer from Poland. </b>
 </div>
 
-- :telescope: I’m currently working om my pet projects and searching a job.
+- :telescope: I’m currently working on my pet projects and searching a job.
 
 - :seedling: My goal is to become an experienced developer and create something interesting for the world!
 
